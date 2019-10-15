@@ -1,0 +1,21 @@
+/*  Tag selectors*/
+
+h1{
+  font-size: 200px;
+  color: red;
+}
+
+/*img{
+  background-color: red;
+}
+
+*/
+
+/*Class selectors*/
+.bacon{
+  background-color: green;
+}
+
+.choco{
+  background-color: red;
+}
