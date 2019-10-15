@@ -11,11 +11,23 @@ h1{
 
 */
 
+img:hover{
+  background-color: gold;
+}
+
 /*Class selectors*/
-.bacon{
+.bacon {
   background-color: green;
 }
 
-.choco{
+.choco {
   background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+
+/**************Id selectors**************/
+#heading{
+  color: blue;
 }
